@@ -10,7 +10,7 @@ To read the full analysis' article, click on the next link: https://glprojects.s
 
 To greek version of this article is provided here: 
 
-To explore the full code in R click on the next link:  
+To explore the full code in R click on the next link: https://github.com/geolamprou/measures_against_covid_19_in_greece/blob/main/source_code.R 
 
 
 ## Notes
