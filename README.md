@@ -15,5 +15,5 @@ To greek version of this article is provided here: https://glprojects.shinyapps.
 To explore the full code in R click on the next link: https://github.com/geolamprou/measures_against_covid_19_in_greece/blob/main/source_code.R 
 
 
-## Notes
-1. The database "Public Health and Social Measures in Response to COVID-19" from World Health Organization (WHO) is used for the acquisition of data. The corresponding link is provided here: <https://phsm.euro.who.int/covid-19>
+## Note
+The database "Public Health and Social Measures in Response to COVID-19" from World Health Organization (WHO) is used for the acquisition of data. The corresponding link is provided here: <https://phsm.euro.who.int/covid-19>
