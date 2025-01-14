@@ -10,7 +10,7 @@ Based on this, a small analysis about anti-covid measures in Greece is presented
 
 To read the full analysis' article, click on the next link: https://glprojects.shinyapps.io/measures_against_covid19_in_greece_a_small_analysis_2/
 
-The greek version of this article is provided here: https://glprojects.shinyapps.io/measures_against_covid19_in_greece_a_small_analysis_greek/
+The greek version of this article is provided here: [https://glprojects.shinyapps.io/measures_against_covid19_in_greece_a_small_analysis_greek/](https://glprojects.shinyapps.io/covid19_measures_in_greece_a_small_analysis_greek_part_1/)
 
 To explore the full code in R click on the next link: https://github.com/geolamprou/measures_against_covid_19_in_greece/blob/main/source_code_part_1.R 
 
